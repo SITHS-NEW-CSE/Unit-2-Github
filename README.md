@@ -15,3 +15,6 @@ branch, not affecting other branches. <br> <br>
 To create a branch in desktop, click on the "Current branch" drop down and then click on "New branch." This will allow you to name your branch as well as choose the
 existing branch it's based on. You can also use this drop down to switch between branches that exist in your repo. Each new branch that you create on desktop will need
 to be published to GitHub for others to be able to access.
+
+# Merging Branches
+When working with multiple branches and accessing the drop down menu, at the bottom of the menu you'll see and option to "Choose a branch to merge into (current branch)." Choose this option and then pick the branch to merge into your current branch. This combines the code of the two branches into one branch, the merge acting as a commit.
